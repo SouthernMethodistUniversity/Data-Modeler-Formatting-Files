@@ -1,0 +1,92 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<DomainFile class="oracle.dbtools.crest.model.design.DomainFileWrapper" fileName="defaultdomains">
+<domains>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="_BK" id="0AE43472-4554-DE0F-9DC3-C9EBBD0CA075">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-02 16:05:23 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypeSize>1028</dataTypeSize>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="LoadDate" id="1B890306-78DB-376F-CEA9-98F5D9808201">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-02 16:05:51 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>7</dataTypePrecision>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>91229484-D19C-D458-8647-333C7FFE7B60</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="HashDiff" id="25261B02-5F16-24B7-480C-F27232AD3A08">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-02 16:03:04 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypeSize>64</dataTypeSize>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT025</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Oracle Timestamp Equivalent" id="254292C0-F977-9255-CEEE-A233EB448B3B">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-29 19:26:24 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypePrecision>6</dataTypePrecision>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>91229484-D19C-D458-8647-333C7FFE7B60</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Canvas_SK" id="3A5FDA03-55D3-640F-2A7B-828A8D286840">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-28 18:24:08 UTC</createdTime>
+<comment><![CDATA[Canvas Surrogate Key]]></comment>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT027</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="RecordSource" id="644188BD-2A4B-C673-3574-C62A2053CFEC">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-02 16:07:14 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypeSize>128</dataTypeSize>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT024</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="SequenceNbr" id="73F84A9E-FA6C-C6E5-B05C-12DE953A674C">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-20 17:29:25 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT027</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="BIGINT" id="A610C412-DF3A-AA7A-01D7-BE033DB5CBA7">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-28 18:33:29 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT027</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="_HK" id="C1BCDA11-D30C-AE3B-A14D-9EF2DF99A0B3">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-09-02 16:01:58 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<dataTypeSize>64</dataTypeSize>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT025</logicalDatatype>
+</Domain>
+<Domain class="oracle.dbtools.crest.model.design.Domain" name="Unknown" id="DOM3000004">
+<createdBy>spn02650</createdBy>
+<createdTime>2022-08-26 20:56:46 UTC</createdTime>
+<ownerDesignName>System</ownerDesignName>
+<avTSortOrder>0</avTSortOrder>
+<fileName>defaultdomains</fileName>
+<logicalDatatype>LOGDT017</logicalDatatype>
+</Domain>
+</domains>
+</DomainFile>
