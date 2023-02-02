@@ -1,0 +1,151 @@
+Glossary,,,,,,,,
+,,,,,,,,
+Name,Plural,Abbreviation,Alt. Abbreviation,Prime,Class,Modifier,Qualifier,Short Description
+1,,,,false,false,false,true,
+2,,,,false,false,false,true,
+3,,,,false,false,false,true,
+4,,,,false,false,false,true,
+Address,,,ADDR,true,false,false,false,
+AddressType,,,ADDR_TYPE,true,false,false,false,
+ALTER_EMPLID,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+AlternateCharacter,,,AC,false,false,true,false,
+BARG_UNIT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+BILINGUALISM_CODE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Birth,,,,true,false,false,false,
+CAMPUS_ID,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+CitizenshipProof,,,,true,false,false,false,
+City,,,,true,false,false,false,
+Code,,,CD,false,true,false,false,
+Country,,,CNTRY,true,false,true,false,
+County,,,,true,false,false,false,
+CPAMID,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+DataType,,,DATA_TYPE,true,false,false,false,
+Date,,,DT,false,true,false,false,
+DateTime,,,DTTM,false,true,false,false,
+Death,,,,true,false,false,false,
+DEATH_CERTIF_NBR,,,DEATH_CERTIF,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Description,,,DESCR,false,true,false,false,
+DISABLED,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+DISABLED_VET,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Display,,,,false,false,true,false,
+Effective,,,EFF,false,false,true,false,
+ENTRY_DT_FRA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+EXPCTD_MILITARY_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+EXTENSION,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+FERPA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Field,,,,false,true,false,false,
+First,,,,false,false,false,true,
+Formal,,,,false,false,true,false,
+Format,,,,false,false,true,false,
+FT_STUDENT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GEO_CODE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GEO_CODE_OTHER,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Grade,,,,true,false,false,false,
+GVT_CHANGE_FLAG,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_CRED_MIL_SVCE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_CURR_AGCY_EMPL,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_CURR_FED_EMPL,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_DISABILITY_CD,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_DRAFT_STATUS,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_HIGH_GRADE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_HIGH_PAY_PLAN,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_GRADE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_RESRVE_CAT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_SEP_RET,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_SVCE_END,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_SVCE_START,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MIL_VERIFY,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_MILITARY_COMP,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_PAR_NBR_LAST,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_PAY_PLAN,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_PREV_AGCY_EMPL,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_PREV_FED_EMPL,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_SEP_INCENT_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_SEP_INCENTIVE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_TENURE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_UNIF_SVC_CTR,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_VET_PREF_APPT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_VET_PREF_RIF,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+GVT_YR_ATTAINED,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+HEALTH_CARE_NBR,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+HEALTH_CARE_STATE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+HIGHEST_EDUC_LVL,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+HONSEKI_JPN,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+House,,,,true,false,false,false,
+HR_RESPONSIBLE_ID,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+ID,,,ID,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+InCityLimit,,,IN_CITY_LIMIT,true,false,false,false,
+Initials,,,,false,false,true,false,
+Language,,,LANG,true,false,false,false,
+Last,,,,false,false,false,true,
+LastUpdate,,,LASTUPD,true,false,false,false,
+LastUpdateOperator,,,LASTUPDOPR,true,false,false,false,
+MaritalStatus,,,MAR_STATUS,true,false,false,false,
+MEDICARE_ENTLD_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Middle,,,,false,false,false,true,
+MILIT_SITUATN_ESP,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILIT_SITUATN_FRA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_END_ITA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_RANK_ITA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_STAT_GER,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_STAT_ITA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_STATUS,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+MILITARY_TYPE_ITA,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Name,,,NM,false,true,false,false,
+Number,,,NUM,false,true,false,false,
+ORDER_BY_SEQ,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Other,,,,false,false,true,false,
+PARTNER_LAST_NAME,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+PARTNER_ROY_PREFIX,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Phone,,,,true,false,false,false,
+Place,,,PLACE_OF,false,false,true,false,
+Postal,,,POSTAL,true,false,false,false,
+Preferred,,,PREF,false,false,true,false,
+Prefix,,,,false,false,false,true,
+Region,,,,true,false,false,false,
+Royal,,,,false,false,true,false,
+SAL_ADMIN_PLAN,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SCC_DISPLAY_FIELD,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Search,,,SRCH,false,false,true,false,
+Second,,,,false,false,false,true,
+Sex,,,,true,false,false,false,
+Short,,,,false,false,true,false,
+SMOKER,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SMOKER_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SMU_ID,,,EMPLID,true,false,false,false,
+SOC_SEC_AFF_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+State,,,ST,true,false,true,false,
+Status,,,,false,true,false,false,
+Suffix,,,,false,false,false,true,
+Title,,,,true,false,false,false,
+Type,,,,true,false,false,false,
+US_WORK_ELIGIBILTY,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+VA_BENEFIT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+Academic,,ACAD,,false,false,true,false,
+Term,,STRM,,true,false,false,false,
+Career,,CAR,,true,false,false,false,
+Institution,,,,true,false,false,false,
+Begin,,,,false,false,true,false,
+End,,,,false,false,true,false,
+Session,,,,true,false,false,false,
+Weeks,,,,true,false,false,false,
+Instruction,,INSTRUCT,,false,false,true,false,
+Category,,,,false,true,false,false,
+Year,,,,true,false,false,false,
+Transcript,,,,true,false,false,false,
+Printed,,PRT,,false,false,true,false,
+Holiday,,,,true,false,false,false,
+Schedule,,,,false,true,false,false,
+SIXTY_PCT_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+USE_DYN_CLASS_DATE,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_TRMAC_LAST_DT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSENRLDISP_BDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSENRLDISP_EDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSPLNRDISP_BDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSPLNRDISP_EDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFADVR_BDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFADVR_EDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFPREM_BDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFPREM_EDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFSTD_BDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
+SSR_SSWHIFSTD_EDT,,,,true,false,false,false,Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged.
