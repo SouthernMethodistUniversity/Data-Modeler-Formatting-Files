@@ -150,5 +150,18 @@
    <glossaryWord name="USE_DYN_CLASS_DATE" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="1C3F04B2-EC91-5853-76A8-7EE7B46F2903" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
    <glossaryWord name="Weeks" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="CDE68298-B7DB-FF1F-4575-79365754C99B" import_id="" description="" />
    <glossaryWord name="Year" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="B10CCBF3-40B0-4CE1-D8ED-DA79C4A466E2" import_id="" description="" />
+   <glossaryWord name="" plural="" abbreviation="" alt_abbreviation="" id="CE260A49-EF08-4EBD-EF27-3B93A33DCABC" import_id="" description="" />
+   <glossaryWord name="Appointment" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="5526F8EE-1633-4D73-3DF0-884D3F3C6AFE" import_id="" description="" />
+   <glossaryWord name="Census" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="4DC7FA2C-ACB1-5265-0D58-A9F31E7C45F7" import_id="" description="" />
+   <glossaryWord name="Control" plural="" abbreviation="" alt_abbreviation="" class_word="true" id="953539B6-D1AA-8514-915D-DA05BF581B0B" import_id="" description="" />
+   <glossaryWord name="Enrollment" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="30E2120A-C5CC-1378-C6CE-1C65F37149EE" import_id="" description="" />
+   <glossaryWord name="FACILITY_ASSIGNMNT" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="563E0A2F-A8B8-63DD-5B6B-DF142B5CD2E9" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
+   <glossaryWord name="Open" plural="" abbreviation="" alt_abbreviation="" modifier="true" id="C5AE6D6D-8A3E-CCD5-2A0A-022451FE7D00" import_id="" description="" />
+   <glossaryWord name="SESSN_APPT_CNTL" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="BDA268BA-E6FF-BC3B-877B-6D53B5FFED5F" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
+   <glossaryWord name="SESSN_ENRL_CNTL" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="F359946E-5D47-A2B6-94C3-76E391F99E26" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
+   <glossaryWord name="SSR_ENR_APT_APPROV" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="A6E8F39E-6D15-4F1C-61C5-9A17E7AFC6FF" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
+   <glossaryWord name="SSR_VAL_APT_APPROV" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="C4D89B12-4B61-3FAB-FDB9-F0310F5BD082" import_id="" description="Names of fields from MySMU tables that are not expected to be used in the DW are left unchanged." />
+   <glossaryWord name="Wait" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="C5DC32EC-D4B7-91E7-AC17-5A35A9E36DF6" import_id="" description="" />
+   <glossaryWord name="WeeksOfInstruction" plural="" abbreviation="" alt_abbreviation="" primary_word="true" id="41D9221C-574C-654A-16B4-B330E2611DF2" import_id="" description="" />
 
 </cwd_glossary>
