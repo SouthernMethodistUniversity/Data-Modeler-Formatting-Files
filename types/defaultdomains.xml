@@ -5,6 +5,7 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-09-02 16:05:23 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>0AE43472-4554-DE0F-9DC3-C9EBBD0CA075</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>1028</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -14,8 +15,8 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-09-02 16:05:51 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>1B890306-78DB-376F-CEA9-98F5D9808201</importedID>
 <avTSortOrder>0</avTSortOrder>
-<dataTypePrecision>7</dataTypePrecision>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>91229484-D19C-D458-8647-333C7FFE7B60</logicalDatatype>
 </Domain>
@@ -23,6 +24,7 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-09-02 16:03:04 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>25261B02-5F16-24B7-480C-F27232AD3A08</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>64</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -30,8 +32,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Oracle Timestamp Equivalent" id="254292C0-F977-9255-CEEE-A233EB448B3B">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-09-29 19:26:24 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>254292C0-F977-9255-CEEE-A233EB448B3B</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypePrecision>6</dataTypePrecision>
 <fileName>defaultdomains</fileName>
@@ -39,8 +42,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="VarChar Max" id="279471DC-077E-3EC2-B221-5E6374768E4B">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:37:29 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>279471DC-077E-3EC2-B221-5E6374768E4B</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>max</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -48,9 +52,10 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Canvas_SK" id="3A5FDA03-55D3-640F-2A7B-828A8D286840">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-09-28 18:24:08 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <comment><![CDATA[Canvas Surrogate Key]]></comment>
 <ownerDesignName>System</ownerDesignName>
+<importedID>3A5FDA03-55D3-640F-2A7B-828A8D286840</importedID>
 <avTSortOrder>0</avTSortOrder>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>LOGDT027</logicalDatatype>
@@ -59,6 +64,7 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-09-02 16:07:14 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>644188BD-2A4B-C673-3574-C62A2053CFEC</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>128</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -66,8 +72,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="VarChar Long" id="714781A8-0D64-B473-E229-87595D20AB0F">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:37:05 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>714781A8-0D64-B473-E229-87595D20AB0F</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>2000</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -75,16 +82,18 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="SequenceNbr" id="73F84A9E-FA6C-C6E5-B05C-12DE953A674C">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-09-20 17:29:25 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>73F84A9E-FA6C-C6E5-B05C-12DE953A674C</importedID>
 <avTSortOrder>0</avTSortOrder>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>LOGDT027</logicalDatatype>
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="BLOB" id="78C3359C-1A9C-71ED-2012-3B712733EE01">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:30:51 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>78C3359C-1A9C-71ED-2012-3B712733EE01</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>max BYTE</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -92,8 +101,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Numeric" id="7FEEC22F-0254-964A-F657-AE43C8455335">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:33:26 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>7FEEC22F-0254-964A-F657-AE43C8455335</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypePrecision>18</dataTypePrecision>
 <dataTypeScale>4</dataTypeScale>
@@ -102,8 +112,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Time" id="82C9E7A5-6E70-6923-C4DE-34DE494E42A3">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:35:06 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>82C9E7A5-6E70-6923-C4DE-34DE494E42A3</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypePrecision>7</dataTypePrecision>
 <fileName>defaultdomains</fileName>
@@ -111,8 +122,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="VarChar Short" id="8AA85775-2FA6-33FE-D7E1-A5484E76C1B2">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:35:28 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>8AA85775-2FA6-33FE-D7E1-A5484E76C1B2</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>128</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -120,8 +132,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Numeric Max" id="972BAD08-9548-368E-15F6-60D962957A64">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:34:02 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>972BAD08-9548-368E-15F6-60D962957A64</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypePrecision>38</dataTypePrecision>
 <dataTypeScale>8</dataTypeScale>
@@ -130,24 +143,27 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="Date" id="99EF2590-9FD6-2061-3B59-1597038E88F8">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:32:17 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>99EF2590-9FD6-2061-3B59-1597038E88F8</importedID>
 <avTSortOrder>0</avTSortOrder>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>LOGDT007</logicalDatatype>
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="BigInt" id="A610C412-DF3A-AA7A-01D7-BE033DB5CBA7">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-09-28 18:33:29 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>A610C412-DF3A-AA7A-01D7-BE033DB5CBA7</importedID>
 <avTSortOrder>0</avTSortOrder>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>LOGDT027</logicalDatatype>
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="CLOB" id="AE60A5E2-962A-127B-C910-FE0D73C2C133">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:31:45 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>AE60A5E2-962A-127B-C910-FE0D73C2C133</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>max CHAR</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -157,6 +173,7 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-09-02 16:01:58 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>C1BCDA11-D30C-AE3B-A14D-9EF2DF99A0B3</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>64</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -166,14 +183,16 @@
 <createdBy>spn02650</createdBy>
 <createdTime>2022-08-26 20:56:46 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>DOM3000004</importedID>
 <avTSortOrder>0</avTSortOrder>
 <fileName>defaultdomains</fileName>
 <logicalDatatype>LOGDT017</logicalDatatype>
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="NVarChar" id="E36D24FB-A9EA-65E8-7FD0-0AA2D68A6495">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:34:31 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>E36D24FB-A9EA-65E8-7FD0-0AA2D68A6495</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypeSize>2000</dataTypeSize>
 <fileName>defaultdomains</fileName>
@@ -181,8 +200,9 @@
 </Domain>
 <Domain class="oracle.dbtools.crest.model.design.Domain" name="DateTime" id="F4F52D02-2854-0AC1-8D75-FA70DC3A1B51">
 <createdBy>spn02650</createdBy>
-<createdTime>2022-10-20 20:32:35 UTC</createdTime>
+<createdTime>2023-03-22 21:38:36 UTC</createdTime>
 <ownerDesignName>System</ownerDesignName>
+<importedID>F4F52D02-2854-0AC1-8D75-FA70DC3A1B51</importedID>
 <avTSortOrder>0</avTSortOrder>
 <dataTypePrecision>7</dataTypePrecision>
 <fileName>defaultdomains</fileName>
